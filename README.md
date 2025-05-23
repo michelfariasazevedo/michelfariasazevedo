@@ -1,4 +1,4 @@
-<img src="https://github.com/ManoBharathi93/ManoBharathi93/blob/main/Banner.png" >
+<img src="https://github.com/michelfariasazevedo/michelfariasazevedo/blob/main/Banner.png" >
 
 ### 👋 < Olá, eu sou Michel F. Azevedo (💻💖☕) />
 
