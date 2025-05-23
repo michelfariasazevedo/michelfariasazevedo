@@ -1,4 +1,6 @@
-### 👋 OLá, sou Michel F. Azevedo (💻💖☕)
+<img src="https://github.com/ManoBharathi93/ManoBharathi93/blob/main/Banner.png" >
+
+### 👋 < Olá, eu sou Michel F. Azevedo (💻💖☕) />
 
 ##
 
