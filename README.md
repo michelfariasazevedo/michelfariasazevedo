@@ -13,16 +13,19 @@
 🔹 Interesse em Desenvolvimento Web e Modelagem de Processos.<br/>
 🔹 Foco em HTML, CSS, JavaScript, e Programação Web.<br/>
 
-# Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="JavaScript logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BOOTSTRAP logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="JavaScript logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="BOOTSTRAP logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="VSCode logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Figma logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="MySQL logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="WordPress logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Netlify logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg">
+  
 </div>
 
 # Programas e Bootcamps
@@ -34,14 +37,17 @@
  
 </div>
 
-## <h3 align="center"> Status </h3>
+<h3 align="center"> Status </h3>
 
+<a href="http://www.github.com/0xbl4nk"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
 <p align="center">
    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelfariasazevedo&show_icons=true&locale=en&layout=compact&theme=dark" />
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=michelfariasazevedo&theme=midnight-purple&show_icons=true"/>
 </p>
+<a href="http://www.github.com/0xbl4nk"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
 
-## <h3 align="center"> 📱 Me acompanhe nas redes </h3>
+
+##  <h3 align="center"> 📱 Me acompanhe nas redes </h3>
 
 <div align="center"> 
    <a href="https://discord.io/michelfariasazevedo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
