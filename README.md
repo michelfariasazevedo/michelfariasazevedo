@@ -4,7 +4,7 @@
 
 ##
 
-<div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&pause=1000&color=FE8100&background=FF56FF00&center=false&width=435&lines=Web+Design;Design+Grafico;Social+Media+Design;Marketing+Digital" alt="Typing SVG" /></a>
+<div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&pause=1000&color=FE8100&background=FF56FF00&center=false&width=435&lines=Web+Design;Design+Grafico;Social+Media+Design;Marketing+Digital;Freelancer" alt="Typing SVG" /></a>
 </div>
 
 🔹 Atualmente acadêmico em Lic. Informática.<br/>
@@ -13,7 +13,7 @@
 🔹 Interesse em Desenvolvimento Web e Modelagem de Processos.<br/>
 🔹 Foco em HTML, CSS, JavaScript, e Programação Web.<br/>
 
-## <h3 align="left"> Linguagens e Ferramentas </h3>
+# Linguagens e Ferramentas
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="JavaScript logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +25,7 @@
   <img align="center" alt="MySQL logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-## <h3 align="left"> Programas e Bootcamps </h3>
+# Programas e Bootcamps
 
 <p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
 
