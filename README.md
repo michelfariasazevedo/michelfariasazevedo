@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Michel F. Azevedo (💻💖☕)
 
-<img src="https://github.com/michelfariasazevedo/michelfariasazevedo/blob/main/Capa GitHub - Mr. Freela.png" >
+<img src="https://github.com/michelfariasazevedo/michelfariasazevedo/blob/main/Banner.png" >
 
 ##
 
