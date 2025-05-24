@@ -39,13 +39,13 @@
 
 ## 
 
-<h3 align="center"> Status </h3>
+<h3 align="center"> Estatísticas </h3>
 
 <a href="http://www.github.com/0xbl4nk"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
 
 <p align="center">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelfariasazevedo&theme=midnight-purple&show_icons=true&layout=compact&locale=pt-br"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=michelfariasazevedo&theme=midnight-purple&show_icons=true&layout=compact&locale=pt-br"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelfariasazevedo&theme=midnight-purple&show_icons=true&include_all_commits=true&layout=compact&locale=pt-br"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=michelfariasazevedo&theme=midnight-purple&show_icons=true&include_all_commits=true&layout=compact&locale=pt-br"/>
 </p>
 
 <a href="http://www.github.com/0xbl4nk"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
